@@ -16,6 +16,8 @@ Gold4Veridian
 I have purposefully password protected the code so that it does not get inadvertently modified.
 
 I have added three additional files to the repository, which represent a completed example of a full project plan.  The three files are:
-1. Demo Run 2. xls
+1. Demo Run 2.xls
 2. PMI Project Estimation.ppx
-3. Instructions on Rerunning the Demo
+3. Instructions on Rerunning the PMFin Tracker Demoonstration.doc
+
+The last file is not completely accurate, since there are bindings to <cntl> keys that are no longer valid, but the general approach should still work.
