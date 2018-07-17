@@ -17,5 +17,5 @@ I have purposefully password protected the code so that it does not get inadvert
 
 I have added three additional files to the repository, which represent a completed example of a full project plan.  The three files are:
 1. Demo Run 2. xls
-2. 
-3. 
+2. PMI Project Estimation.ppx
+3. Instructions on Rerunning the Demo
